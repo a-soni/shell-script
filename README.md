@@ -1,2 +1,2 @@
 # shell-script
-Quick and simple command (hacks) that make Shell scripting easier
+Quick and simple commands that make everyday life easier
